@@ -7,7 +7,7 @@
 
 - Xumar Babazadə Əmrah  ~ bilet 4
 
-- Nicat Əliyev İlqar  ~ bilet 9
+- Nicat Əliyev İlqar  ~ bilet 11
 
 - Qurban Əməşov Məmməd  ~ bilet 8
 
@@ -19,22 +19,22 @@
 
 - Ilham Mikayilov Müşfiq ~ bilet 14
 
-- Elman Məmişov Telman ~ bilet 1
+- Elman Məmişov Telman ~ bilet 15
 
 - Emin Usubov Hamlet ~ bilet 17
 
-- Rəsul Qurbanov Siyafər ~ bilet 2
+- Rəsul Qurbanov Siyafər ~ bilet 16
 
 - Elvin İbrahimov İlqar ~ bilet 5
 
-- Cavidan Quliyev  ~ bilet 11
+- Cavidan Quliyev  ~ bilet 9
 
-- İbrahim Sadıxov ~ bilet 6
+- İbrahim Sadıxov ~ bilet 7
 
-- Yusif Sərdarlı Kərim ~ bilet 7
+- Yusif Sərdarlı Kərim ~ bilet 6
 
 - Nihat,Abdullazadə,Seyfəddin ~ bilet 13
 
-- Qüdrət Qüdrətli Eldar ~ bilet 15
+- Qüdrət Qüdrətli Eldar ~ bilet 1
 
-- Vasiv Hüseynov Ramil ~ bilet 16
+- Vasiv Hüseynov Ramil ~ bilet 2
