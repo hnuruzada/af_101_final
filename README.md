@@ -5,7 +5,7 @@
 
 - İlqar Əlizadə Oqtay  ~ bilet 18
 
-- Xumar Babazadə Əmrah  ~ bilet 4
+- Xumar Babazadə Əmrah  ~ bilet 7
 
 - Nicat Əliyev İlqar  ~ bilet 11
 
@@ -29,7 +29,7 @@
 
 - Cavidan Quliyev  ~ bilet 9
 
-- İbrahim Sadıxov ~ bilet 7
+- İbrahim Sadıxov ~ bilet 4
 
 - Yusif Sərdarlı Kərim ~ bilet 6
 
